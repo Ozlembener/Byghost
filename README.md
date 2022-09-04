@@ -1,9 +1,9 @@
 
-<h2 align="centre">Muud Music Mp3 Oynatıcı 🎵</h2>
+<h2 align="centre">Dominant Music Mp3 Oynatıcı 🎵</h2>
 
 ### Güncellendi aktif.... 
 <p align="center">
-  <img src="https://telegra.ph//file/4c86190fcbe14428c8c6b.jpg">
+  <img src="https://telegra.ph/file/2de4038e064441778d2fb.jpg">
 </p> 
 
 <h3>Sürümler 🧸</h3>
@@ -41,6 +41,6 @@ Get pyrogram (p)  `SESSION` buradan:
 [![Run on Repl.it](https://repl.it/badge/github/Makoto-XD/Session-Generator)](https://replit.com/@Makoto-XD/Session-Generator)
 
 #### Düzen tasarım
-- [#Ge͂̂͝c̨͒ͤ̕͜e̡͝ k̶̴̛ͮ͌̒̃͟͡uş̟̲͎u̼͓̭̝ͦ̂͋̈̋̔](https://t.me/mutsuz_panda)
+- [#BeNeR](https://t.me/napimkii)
 
-- İnstagram [@ama_hocaam](https://instagram.com/ama_hocaam?igshid=YmMyMTA2M2Y=)
+-
